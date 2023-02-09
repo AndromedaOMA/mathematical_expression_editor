@@ -52,17 +52,33 @@
 
 <h3 align="left">Here are some examples:</h3>
 
+- The first one:
+
+![image](https://user-images.githubusercontent.com/116078879/217894615-35bacbfe-ae04-46a4-b98b-194367691098.png)
+
+![image](https://user-images.githubusercontent.com/116078879/217894682-1c7a6cb8-d62b-4261-9702-0cfeb2977d5c.png)
+
+![image](https://user-images.githubusercontent.com/116078879/217894716-447476eb-7423-4cf2-bde7-cbf034dfafca.png)
+
+![image](https://user-images.githubusercontent.com/116078879/217894758-1dbeec4c-3a1c-41a8-99fa-57f18d84fd7c.png)
+
+- The second one:
+
 ![image](https://user-images.githubusercontent.com/116078879/217878460-41e78909-6818-45d9-9ae5-b375bc46f483.png)
 
 ![image](https://user-images.githubusercontent.com/116078879/217878556-b86c9481-32cd-442b-8962-2691896a9046.png)
 
 ![image](https://user-images.githubusercontent.com/116078879/217878670-5f695a3c-43c4-4af7-bb70-c39f4c3a8ee4.png)
 
-![image](https://user-images.githubusercontent.com/116078879/217881048-01103267-0609-420c-aa07-6088f088e189.png)
+- The third one:
 
-![image](https://user-images.githubusercontent.com/116078879/217881084-1d3c4bcb-fcc9-4c3b-adb9-4aba6164b206.png)
+![image](https://user-images.githubusercontent.com/116078879/217895732-072fcece-fa06-49e2-977b-e267aec044e9.png)
 
-![image](https://user-images.githubusercontent.com/116078879/217881120-4ba1ff59-7ca5-4a77-8e56-cf02bf528530.png)
+![image](https://user-images.githubusercontent.com/116078879/217895790-439495a4-db1a-40ae-b75d-1ae11c97c76f.png)
+
+![image](https://user-images.githubusercontent.com/116078879/217895832-eef5b458-89be-4f5c-aaad-e8b5c7470645.png)
+
+- The fourth one:
 
 ![image](https://user-images.githubusercontent.com/116078879/217884693-6c574e77-2cb8-412a-a861-d4e47da27cbf.png)
 
