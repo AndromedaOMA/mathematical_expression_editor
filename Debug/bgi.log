@@ -1,0 +1,51 @@
+﻿  Source.cpp
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(194,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(344,16): warning C4018: '<': signed/unsigned mismatch
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(348,12): warning C4018: '<': signed/unsigned mismatch
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(358,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(342,7): warning C4101: 'entitate': unreferenced local variable
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(432,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(433,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(440,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(448,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(551,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(559,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(560,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(561,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(569,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(571,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(582,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(583,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(584,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(711,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(812,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(853,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(860,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1333,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1651,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1652,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1660,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1661,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1676,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1680,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1681,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1692,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1696,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1697,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1705,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1844,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1844,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1862,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1862,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1868,148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1868,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1868,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1868,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1983,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1989,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(1992,50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(2037,80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(2043,76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(2046,85): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Source.cpp(2519,4): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bgi.vcxproj -> D:\FACULTATE\cpp\Proiect (LAB-10,11,12,13)\Meniu\bgi\Debug\bgi.exe
