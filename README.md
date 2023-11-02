@@ -3,8 +3,6 @@
 
 ---
 
-- ⚡ Fun fact **This is my first project made using C/C++**
----
 
 <h3 align="left">What does the project do?</h3>
 
@@ -85,3 +83,7 @@
 ![image](https://user-images.githubusercontent.com/116078879/217884753-88632564-ee89-4ae2-a5f3-43ff13f63d36.png)
 
 ![image](https://user-images.githubusercontent.com/116078879/217884800-46f550a7-9992-48dd-b8d1-0737152ad215.png)
+---
+
+- ⚡ Fun fact **This is my first project made using C/C++**
+---
